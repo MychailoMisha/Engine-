@@ -118,10 +118,6 @@ The `generated_game.cpp` file is the temporary code of the current game that the
 
 Scenes, nodes, Inspector settings and paths to resources are stored in the project file. It is recommended to save each game in a separate folder and not delete its `assets` and `scripts` directories.
 
-## 📜 License
-
-The recommended license for the repository is **MIT License**. Include a `LICENSE` file with your name or team name and the year of publication.
-
 ---
 
 **Engine Plus Plus** - Create 2D games visually and control every detail with real C++.
